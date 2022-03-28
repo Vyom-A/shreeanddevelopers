@@ -1,0 +1,72 @@
+video {
+width : 100%;
+height : 50%;
+}
+section{
+text-align: center;
+}
+.line {
+width: 100%;
+background-color : black;
+height: 3px;
+}
+.copy-right-footer { 
+bottom : 0;
+position : fixed;
+background-color: rgb(131, 122, 122);
+color : white;
+width : 100%;
+text-align: center;
+line-height: 2.5;
+font-size: 18px;
+font-weight: bold;
+font-style: italic;
+}
+.menu {
+list-style: none;
+width: 100%;
+top : 0;
+right : 30;
+cursor: pointer;
+text-decoration-color: black;
+position : fixed;
+}
+.links {
+color: black;
+display: inline;
+float: right;
+padding : 10px;
+font-size :28px;
+font-family: verdana;
+background-color: bisque;
+}
+.links :hover {
+background-color: aqua;
+color : blue;
+font-size : 35px;
+}
+.header {
+width : 100%;
+background-color: greenyellow;
+text-align: center;
+}
+.images {
+width : 200px;
+height : 200px;
+}
+.brick14 {
+width: 45%;
+height : 45%;
+}
+.background_image_class {
+opacity: 0.5;
+}
+.brick15 {
+width : 100%;
+height: 100%;
+}
+.header5 {
+    width : 100%;
+    background-color: greenyellow;
+    text-align: center;
+}
